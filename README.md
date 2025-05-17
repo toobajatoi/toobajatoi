@@ -14,9 +14,15 @@ I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** t
 
 ## ⚔️ My Arsenal (Tech Stack & Tools)
 
-| Design & Animation      | Frontend                  | Backend & DB             | AI & Scripting           | Game Dev & Animation     |
-|------------------------|---------------------------|--------------------------|-------------------------|--------------------------|
-| Figma, After Effects, Procreate, Illustrator | HTML, CSS, Bootstrap, JavaScript | ASP.NET MVC, SQL Server | Python, OpenAI Whisper, Redis | Unity, C#, 2D/3D Game Design |
+<table>
+  <tr>
+    <td align="center" width="150"><b>Design & Animation</b><br>Figma, After Effects, Procreate, Illustrator</td>
+    <td align="center" width="150"><b>Frontend</b><br>HTML, CSS, Bootstrap, JavaScript</td>
+    <td align="center" width="150"><b>Backend & DB</b><br>ASP.NET MVC, SQL Server</td>
+    <td align="center" width="150"><b>AI & Scripting</b><br>Python, OpenAI Whisper, Redis</td>
+    <td align="center" width="150"><b>Game Dev & Animation</b><br>Unity, C#, 2D/3D Design</td>
+  </tr>
+</table>
 
 ---
 
@@ -27,16 +33,20 @@ I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** t
 > 👩‍🎨 Game Design, UI & Animations — built in Unity  
 > 👥 Led the design & animation efforts in a team project  
 
-![Dart Mania Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dart Mania Demo" width="320" style="border-radius:12px;"/>
+</p>
 
 ---
 
 ### 🚗 FASTpool App  
 > Smart student carpool platform with real-time Google Maps & NU ID login  
-> 🔧 Features: Booking, chat, route optimization, and secure authentication  
+> 🔧 Features: Booking, chat, route optimization, secure authentication  
 > 🛠 Tech: ASP.NET MVC, MS SQL, Google Maps API  
 
-![FASTpool App UI](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="FASTpool App UI" width="320" style="border-radius:12px;"/>
+</p>
 
 ---
 
@@ -44,7 +54,9 @@ I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** t
 > Speech-to-Text app powered by OpenAI Whisper  
 > 🐍 Python + Tkinter — built in under 2 hours, clean and efficient  
 
-![Whisper GUI](https://media.giphy.com/media/26gsl7spCAXoFGw8c/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsl7spCAXoFGw8c/giphy.gif" alt="Whisper GUI" width="320" style="border-radius:12px;"/>
+</p>
 
 ---
 
@@ -54,11 +66,23 @@ I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** t
 
 ---
 
+## 🌐 Explore My Portfolio
+
+Check out my projects, designs, and animations in one place!
+
+<p align="center">
+  <a href="https://toobajatoi.github.io/portfolio/" target="_blank">
+    <img src="https://media.giphy.com/media/3oEjHCWdU7F4Qz6aXS/giphy.gif" alt="Portfolio Animation" width="250" style="border-radius:12px;"/>
+  </a>
+</p>
+
+---
+
 ## 📬 Let's Connect!
 
-| Email                                  | LinkedIn                                        | Portfolio           |
-|---------------------------------------|------------------------------------------------|---------------------|
-| [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com) | [linkedin.com/in/toobajatoi](https://linkedin.com/in/toobajatoi) | *Coming Soon*        |
+| 📧 Email | 🔗 LinkedIn | 🌐 Portfolio |
+|----------|------------|--------------|
+| [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com) | [linkedin.com/in/toobajatoi](https://linkedin.com/in/toobajatoi) | [toobajatoi.github.io/portfolio](https://toobajatoi.github.io/portfolio/) |
 
 ---
 
@@ -84,5 +108,5 @@ I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** t
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" />
+  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" style="border-radius:12px;"/>
 </p>
