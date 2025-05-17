@@ -61,7 +61,7 @@ I'm a 21-year-old Computer Science undergrad who brings **tech and creativity to
 - AI + product prototyping  
 - Student-led startups 🚀  
 
-## 😄 Pronouns: She/Her  
+## 😄 Gamer as well?  
 ## ⚡ Fun Fact:
 > I can design a UI in Figma, animate it in After Effects, then bring it to life in code — all in one flow!
 
