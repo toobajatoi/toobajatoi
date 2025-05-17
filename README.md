@@ -6,9 +6,9 @@
 
 # 👾 Hey, I'm **Tooba Jatoi** 👾
 
-🎨 *Creative Technologist* | 💻 *UI/UX Designer* | 🤖 *AI Explorer* | 🎮 *Game Dev Enthusiast*  
+🎨 *Creative Director* | 💻 *UI/UX Designer* | 🤖 *AI Engineer* | 🎮 *Game Dev Enthusiast*  
 
-I'm a 21-year-old Computer Science undergrad who **fuses tech and creativity** to build smart, beautiful experiences — from UI design and animations to AI-powered systems and immersive games.
+I'm a 22-year-old Computer Science undergrad who **fuses tech and creativity** to build smart, beautiful experiences — from UI design and animations to AI-powered systems and immersive games.
 
 ---
 
