@@ -1,33 +1,73 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="banner.png">
-    <img alt="Tooba Jatoi GitHub Banner" src="banner.png" style="width:100%; border-radius: 12px;" />
-  </picture>
-</p>
+<!-- GitHub README for @toobajatoi -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tooba+Jatoi!;UI%2FUX+Designer+%7C+AI+Explorer+%7C+Creative+Technologist;Design+%E2%9C%A8+Code+%F0%9F%92%BB+Create+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
+<img src="banner.png" alt="Tooba Jatoi GitHub Banner" style="width:100%; border-radius:12px;" />
+
+# 👋 Hi, I'm Tooba Jatoi
+
+🎨 *Creative Technologist* | 💻 *UI/UX Designer* | 🤖 *AI Explorer* | 🎮 *Game Dev Enthusiast*
+
+I'm a 21-year-old Computer Science undergrad who brings **tech and creativity together**. I specialize in crafting intuitive user experiences, dynamic visuals, and smart systems that make life simpler and more beautiful.
 
 ---
 
-### 💼 About Me
+## 🛠️ Tech Stack & Tools
+- **Design:** Figma, Adobe After Effects, Procreate, Illustrator  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend:** ASP.NET MVC, SQL Server  
+- **AI & Scripting:** Python, OpenAI Whisper, Redis  
+- **Game & Animation:** Unity, C#, 2D/3D Game Design  
 
-```json
-{
-  "name": "Tooba Jatoi",
-  "role": "Creative Technologist",
-  "pronouns": "she/her",
-  "interests": [
-    "Human-centered design",
-    "Smart UI/UX",
-    "Creative technology"
-  ],
-  "currently_learning": [
-    "Generative AI",
-    "Advanced Backends",
-    "Motion Design"
-  ],
-  "fun_fact": "Sketches, animates, and codes in one flow session ✨"
-}
+---
+
+## 🚀 Projects Worth Checking Out
+
+### 🎯 Dart Mania  
+> Casual dart game where the dart is the *target*!  
+> 👩‍🎨 Game Design, UI, Animations — built in Unity  
+> 👥 Team project: I led design & animations
+
+### 🚗 FASTpool App  
+> Smart student carpool system with real-time maps and NU ID login  
+> 🔧 Features: Booking, chat, authentication, and route optimization  
+> 🛠 Tech: ASP.NET MVC, MS SQL, Google Maps API
+
+### 🎤 Whisper STT GUI  
+> Speech-to-Text GUI using OpenAI's Whisper  
+> 🐍 Built in Python with Tkinter  
+> ⚡ Made in under 2 hours — fast, functional, focused
+
+### 📊 Supportiyo Dashboard & Website  
+> Revamped UI/UX for an AI support platform  
+> 🎯 Focus: Clean modern UI, intuitive experience  
+> 🤝 Collaborated across dev + automation teams
+
+---
+
+## 💬 Let's Connect!
+- 📫 Email: [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/toobajatoi](https://linkedin.com/in/toobajatoi)
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+## 🌱 Currently Learning
+- Advanced AI workflows  
+- Scalable backend logic  
+- Motion design for real-time systems  
+
+## 💞️ Open to Collaborate On:
+- Creative tech projects  
+- UI/UX redesigns  
+- AI + product prototyping  
+- Student-led startups 🚀  
+
+## 😄 Pronouns: She/Her  
+## ⚡ Fun Fact:
+> I can design a UI in Figma, animate it in After Effects, then bring it to life in code — all in one flow!
+
+---
+
+<!---
+toobajatoi/toobajatoi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
