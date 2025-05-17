@@ -6,7 +6,7 @@
 
 🎨 *Creative Technologist* | 💻 *UI/UX Designer* | 🤖 *AI Explorer* | 🎮 *Game Dev Enthusiast*
 
-I'm a 21-year-old Computer Science undergrad who brings **tech and creativity together**. I specialize in crafting intuitive user experiences, dynamic visuals, and smart systems that make life simpler and more beautiful.
+I'm a 22-year-old Computer Science undergrad who brings **tech and creativity together**. I specialize in crafting intuitive user experiences, dynamic visuals, and smart systems that make life simpler and more beautiful.
 
 ---
 
