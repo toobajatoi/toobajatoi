@@ -66,18 +66,6 @@ I'm a 22-year-old Computer Science undergrad who **fuses tech and creativity** t
 
 ---
 
-## 🌐 Explore My Portfolio
-
-Check out my projects, designs, and animations in one place!
-
-<p align="center">
-  <a href="https://toobajatoi.github.io/portfolio/" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjHCWdU7F4Qz6aXS/giphy.gif" alt="Portfolio Animation" width="250" style="border-radius:12px;"/>
-  </a>
-</p>
-
----
-
 ## 📬 Let's Connect!
 
 | 📧 Email | 🔗 LinkedIn | 🌐 Portfolio |
