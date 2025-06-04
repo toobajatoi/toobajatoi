@@ -1,98 +1,71 @@
-<!-- GitHub README for @toobajatoi -->
+## Hi Everyone! 👋🏻
+
+I'm **Tooba Jatoi**, a Computer Science undergrad at FAST NUCES — passionate about fusing **AI, UI/UX, and Game Dev** into seamless, impactful products.
+
+💼 Currently:  
+- **AI Research Architect & Creative Director** @ Supportiyo  
+- **Game Designer** @ M-Labs  
+- Designing smarter interfaces, real-time systems, and scalable AI workflows  
+
+---
+
+### 🧠 Activity
+
+[![Tooba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toobajatoi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/toobajatoi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=toobajatoi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toobajatoi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Tooba Jatoi GitHub Banner" style="width:100%; border-radius:12px;" />
+  <a href="https://github.com/toobajatoi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=toobajatoi&theme=tokyonight" />
+  </a>
 </p>
 
-# 👾 Hey, I'm **Tooba Jatoi** 👾
+---
 
-🎨 *Creative Director* | 💻 *UI/UX Designer* | 🤖 *AI Engineer* | 🎮 *Game Dev Enthusiast*
+## 🔥 Projects from the Lab
 
-I'm a 22-year-old Computer Science undergrad who fuses **technology and creativity** to build smart, beautiful experiences — from AI-powered systems and product design to games and interactive visuals.
+| 🚀 Project | ⚙️ Tech Stack | 📌 Highlights |
+|-----------|---------------|---------------|
+| **BrainPan - Real-Time Emotion & Tone Detector** | Python, FastAPI, Redis, BERT | Multilingual assistant integration with real-time APIs and 92%+ accuracy |
+| **LLM Workflow Automation Engine** | Python, Zapier, Redis, Webhooks | Built scalable APIs and intelligent booking logic for AI-driven scheduling |
+| **Redis-Based Simulation Engine** | Redis, Python | Modeled backend flow using Pub/Sub & Queues for latency-sensitive tasks |
+| **Supportiyo Dashboard UI/UX** | Figma, Prototyping, UX Design | Led full UI redesign for better engagement and streamlined navigation |
+| **Game Design @ M-Labs** | Unity, Illustrator, Blender, C# | Designed mechanics and assets — received 85% positive user feedback |
 
 ---
 
-## ⚔️ My Arsenal
+## 🛠 Skills Snapshot
 
-<table>
-  <tr>
-    <td align="center" width="160"><b>🎨 Design & Animation</b><br>Figma, Adobe Suite, Procreate, Blender</td>
-    <td align="center" width="160"><b>🌐 Frontend</b><br>HTML, CSS, JavaScript, React</td>
-    <td align="center" width="160"><b>🛠 Backend</b><br>FastAPI, Redis, SQL, Webhooks</td>
-    <td align="center" width="160"><b>🧠 AI</b><br>Python, BERT, LLMs, Prompt Engineering</td>
-    <td align="center" width="160"><b>🕹 Game Dev</b><br>Unity, C#, Illustrator, 2D/3D Assets</td>
-  </tr>
-</table>
+**Languages**  
+Python · JavaScript · TypeScript · C++ · SQL · HTML/CSS  
 
----
+**Frameworks & Tools**  
+FastAPI · React · Redis · Zapier · Docker · Git · REST APIs · CI/CD  
 
-## 🚀 Featured Projects
+**Design**  
+Figma · Adobe Suite · Procreate · Blender · UI/UX Design · Game Assets  
 
-### 🧠 BrainPan – Real-Time Emotion & Tone Detector  
-> A multilingual, real-time AI system detecting emotion & tone using transformer models  
-> 🧬 Built with Python, FastAPI, Redis | Supports English, Urdu, and experimental Arabic  
-> ⚡ Integrates modular APIs with frontend assistant interface  
+**Core Strengths**  
+⚡ AI Workflows · 🎨 Design Systems · 🧠 Prompt Engineering · 💬 Real-Time UX  
 
 ---
 
-### ⚙️ LLM Workflow Automation Engine  
-> AI-driven scheduling & automation engine for managing tasks and calendars  
-> 🧠 Uses LLMs + Zapier + FastAPI for real-time workflows and smart booking  
-> 🔗 Connects with external tools through scalable APIs & webhooks  
+## 📱 Connect With Me!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tooba-jatoi44/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:toobajatoi.dev@gmail.com)  
+[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/toobajatoi)  
+[![Portfolio](https://img.shields.io/badge/-Procreate%20Folio-black?style=flat-square&logo=procreate&logoColor=white)](https://folio.procreate.com/tmax_artistic)
 
 ---
 
-### 🔄 Redis Simulation Engine  
-> Real-time task pipeline simulator using Redis Pub/Sub and Queue structures  
-> ⚙️ Modeled backend systems with latency-sensitive architecture  
-> 🎯 Built for high-throughput backend simulations and learning  
-
----
-
-### 🖥️ Supportiyo Dashboard Redesign  
-> Led UI/UX revamp for AI support platform  
-> 🎨 Built responsive, intuitive layouts with Figma  
-> 🚀 Improved engagement and user flow in automation-first product  
-
----
-
-### 🎮 Game Design – M-Labs  
-> Created interactive game systems and visual assets at M-Labs  
-> 🕹️ Worked in Unity using C#, Illustrator, and Blender  
-> ⭐ Achieved 85% positive feedback on prototype release  
-
----
-
-## 📬 Let's Connect!
-
-| 📧 Email | 🔗 LinkedIn | 🎨 Behance | 🌐 Portfolio |
-|----------|------------|------------|--------------|
-| [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com) | [linkedin.com/in/tooba-jatoi44](https://linkedin.com/in/tooba-jatoi44) | [behance.net/toobajatoi](https://behance.net/toobajatoi) | [folio.procreate.com/tmax_artistic](https://folio.procreate.com/tmax_artistic) |
-
----
-
-## 🌱 Currently Powering Up
-
-- Multilingual AI assistants and prompt-engineered workflows  
-- Real-time backend systems and pub/sub architectures  
-- Advanced UX animations and interactive dashboard designs  
-
----
-
-## 💞️ Open to Collaborate on
-
-- Creative AI & real-time UX systems  
-- Games and simulations with narrative or educational value  
-- Startup products with impact and design-led innovation 🚀  
-
----
-
-## ⚡ Fun Fact
-
-> I can design an interface in Figma, animate it in After Effects or Blender, and **bring it to life through real-time code — seamlessly.**
-
----
-
+<!-- README Badge Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" style="border-radius:12px;" />
+  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" />
 </p>
