@@ -1,71 +1,119 @@
-## Hi Everyone! 👋🏻
+<!-- GitHub README for @toobajatoi -->
 
-I'm **Tooba Jatoi**, a Computer Science undergrad at FAST NUCES — passionate about fusing **AI, UI/UX, and Game Dev** into seamless, impactful products.
+<h1 align="center">🚀 Tooba Jatoi — AI × Design × Code</h1>
 
-💼 Currently:  
-- **AI Research Architect & Creative Director** @ Supportiyo  
-- **Game Designer** @ M-Labs  
-- Designing smarter interfaces, real-time systems, and scalable AI workflows  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="banner" style="border-radius:12px;" />
+</p>
+
+<p align="center">
+  <b>AI Engineer · UI/UX Designer · Creative Technologist · Game Dev Enthusiast</b>  
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tooba-jatoi44">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:toobajatoi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://behance.net/toobajatoi">
+    <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=behance&logoColor=white"/>
+  </a>
+  <a href="https://folio.procreate.com/tmax_artistic">
+    <img src="https://img.shields.io/badge/-Procreate%20Folio-black?style=flat&logo=procreate&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🧠 Activity
+## 🌌 About Me
 
-[![Tooba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toobajatoi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I’m **Tooba Jatoi**, a Computer Science undergrad at FAST NUCES who merges creativity with cutting-edge tech.  
+Currently working as an **AI Research Architect & Creative Director** at Supportiyo.  
+
+🎯 My passion lies in designing intuitive UIs, building real-time AI tools, and crafting experiences that blend form and function.
+
+---
+
+## 🚀 Highlight Projects
+
+### 🎭 BrainPan – Emotion & Tone Detector  
+🧠 Multilingual real-time emotion AI using BERT + FastAPI + Redis  
+→ Assistant-ready APIs | Urdu + English + Arabic (beta)  
+⭐️ 92% Accuracy | Low-latency Architecture  
+
+---
+
+### 🤖 LLM Workflow Automation Engine  
+📅 LLM + Zapier + Redis + Webhooks to orchestrate calendars & workflows  
+→ AI assistant for smart bookings & modular scheduling  
+
+---
+
+### 📊 Supportiyo Dashboard UI/UX  
+🎨 Led UI/UX redesign of Supportiyo's AI dashboard  
+→ Figma-based components | Clean UX | Increased engagement  
+
+---
+
+### 🎮 Game Design @ M-Labs  
+🕹 Built a polished Unity game with mechanics, assets & UI  
+→ Designed in Figma + Blender | 85%+ user feedback  
+
+---
+
+### 🔁 Redis-Based Simulation Engine  
+🔄 Real-time task simulator with Redis Pub/Sub & queues  
+→ Modeled backend architecture for async task handling  
+
+---
+
+## 🧠 Tech Stack
+
+| 💼 Domain        | 🔧 Tools & Frameworks |
+|------------------|------------------------|
+| 🤖 AI/ML         | Python, BERT, LLMs, Prompt Engineering |
+| 🛠 Backend        | FastAPI, Redis, REST APIs, SQL, Zapier |
+| 🎨 Design         | Figma, Adobe Suite, Blender, Procreate |
+| 🌐 Frontend       | HTML, CSS, JavaScript, React |
+| 🕹 Game Dev       | Unity, C#, 2D/3D Art, Game UI |
+
+---
+
+## 📈 GitHub Insights
+
+[![Tooba's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=toobajatoi&bg_color=0d1117&color=9e9eff&line=4c569e&point=c9d1d9&area=true&hide_border=true)](https://github.com/toobajatoi)
 
 <div align="center">
-  <a href="https://github.com/toobajatoi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=toobajatoi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toobajatoi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=toobajatoi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobajatoi&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/toobajatoi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=toobajatoi&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toobajatoi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Projects from the Lab
+## 🔍 Currently Exploring
 
-| 🚀 Project | ⚙️ Tech Stack | 📌 Highlights |
-|-----------|---------------|---------------|
-| **BrainPan - Real-Time Emotion & Tone Detector** | Python, FastAPI, Redis, BERT | Multilingual assistant integration with real-time APIs and 92%+ accuracy |
-| **LLM Workflow Automation Engine** | Python, Zapier, Redis, Webhooks | Built scalable APIs and intelligent booking logic for AI-driven scheduling |
-| **Redis-Based Simulation Engine** | Redis, Python | Modeled backend flow using Pub/Sub & Queues for latency-sensitive tasks |
-| **Supportiyo Dashboard UI/UX** | Figma, Prototyping, UX Design | Led full UI redesign for better engagement and streamlined navigation |
-| **Game Design @ M-Labs** | Unity, Illustrator, Blender, C# | Designed mechanics and assets — received 85% positive user feedback |
+- 🌐 Real-time AI assistants with frontend integration  
+- 🔁 Low-latency Redis systems for scalable tasks  
+- ✨ Animated dashboards with dynamic micro-interactions  
 
 ---
 
-## 🛠 Skills Snapshot
+## 🤝 Let’s Collaborate
 
-**Languages**  
-Python · JavaScript · TypeScript · C++ · SQL · HTML/CSS  
-
-**Frameworks & Tools**  
-FastAPI · React · Redis · Zapier · Docker · Git · REST APIs · CI/CD  
-
-**Design**  
-Figma · Adobe Suite · Procreate · Blender · UI/UX Design · Game Assets  
-
-**Core Strengths**  
-⚡ AI Workflows · 🎨 Design Systems · 🧠 Prompt Engineering · 💬 Real-Time UX  
+- 💡 Creative AI systems & intuitive UX  
+- 🎮 Interactive games or simulations  
+- 🚀 Fast-paced MVPs, prototypes, and concept demos  
 
 ---
 
-## 📱 Connect With Me!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tooba-jatoi44/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:toobajatoi.dev@gmail.com)  
-[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/toobajatoi)  
-[![Portfolio](https://img.shields.io/badge/-Procreate%20Folio-black?style=flat-square&logo=procreate&logoColor=white)](https://folio.procreate.com/tmax_artistic)
-
----
-
-<!-- README Badge Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" />
+  <img src="https://media.giphy.com/media/xT9IgoK0c0gXPNDL0U/giphy.gif" width="200" />
 </p>
+
+> **"Design it, animate it, code it — I bring ideas to life end-to-end."**
