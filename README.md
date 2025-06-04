@@ -3,7 +3,7 @@
 <h1 align="center">🚀 Tooba Jatoi — AI × Design × Code</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="banner" style="border-radius:12px;" />
+  <img src="https://githubusercontent.com/akshitagupta15june/akshitagupta15june/main/banner.gif" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Currently working as an **AI Research Architect & Creative Director** at Support
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgoK0c0gXPNDL0U/giphy.gif" width="200" />
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="200" />
 </p>
 
 > **"Design it, animate it, code it — I bring ideas to life end-to-end."**
