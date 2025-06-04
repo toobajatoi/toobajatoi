@@ -6,95 +6,93 @@
 
 # 👾 Hey, I'm **Tooba Jatoi** 👾
 
-🎨 *Creative Director* | 💻 *UI/UX Designer* | 🤖 *AI Engineer* | 🎮 *Game Dev Enthusiast*  
+🎨 *Creative Director* | 💻 *UI/UX Designer* | 🤖 *AI Engineer* | 🎮 *Game Dev Enthusiast*
 
-I'm a 22-year-old Computer Science undergrad who **fuses tech and creativity** to build smart, beautiful experiences — from UI design and animations to AI-powered systems and immersive games.
+I'm a 22-year-old Computer Science undergrad who fuses **technology and creativity** to build smart, beautiful experiences — from AI-powered systems and product design to games and interactive visuals.
 
 ---
 
-## ⚔️ My Arsenal (Tech Stack & Tools)
+## ⚔️ My Arsenal
 
 <table>
   <tr>
-    <td align="center" width="150"><b>Design & Animation</b><br>Figma, After Effects, Procreate, Illustrator</td>
-    <td align="center" width="150"><b>Frontend</b><br>HTML, CSS, Bootstrap, JavaScript</td>
-    <td align="center" width="150"><b>Backend & DB</b><br>ASP.NET MVC, SQL Server</td>
-    <td align="center" width="150"><b>AI & Scripting</b><br>Python, OpenAI Whisper, Redis</td>
-    <td align="center" width="150"><b>Game Dev & Animation</b><br>Unity, C#, 2D/3D Design</td>
+    <td align="center" width="160"><b>🎨 Design & Animation</b><br>Figma, Adobe Suite, Procreate, Blender</td>
+    <td align="center" width="160"><b>🌐 Frontend</b><br>HTML, CSS, JavaScript, React</td>
+    <td align="center" width="160"><b>🛠 Backend</b><br>FastAPI, Redis, SQL, Webhooks</td>
+    <td align="center" width="160"><b>🧠 AI</b><br>Python, BERT, LLMs, Prompt Engineering</td>
+    <td align="center" width="160"><b>🕹 Game Dev</b><br>Unity, C#, Illustrator, 2D/3D Assets</td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Featured Quests (Projects)
+## 🚀 Featured Projects
 
-### 🎯 Dart Mania  
-> Casual dart game where the dart *is the target*!  
-> 👩‍🎨 Game Design, UI & Animations — built in Unity  
-> 👥 Led the design & animation efforts in a team project  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dart Mania Demo" width="320" style="border-radius:12px;"/>
-</p>
+### 🧠 BrainPan – Real-Time Emotion & Tone Detector  
+> A multilingual, real-time AI system detecting emotion & tone using transformer models  
+> 🧬 Built with Python, FastAPI, Redis | Supports English, Urdu, and experimental Arabic  
+> ⚡ Integrates modular APIs with frontend assistant interface  
 
 ---
 
-### 🚗 FASTpool App  
-> Smart student carpool platform with real-time Google Maps & NU ID login  
-> 🔧 Features: Booking, chat, route optimization, secure authentication  
-> 🛠 Tech: ASP.NET MVC, MS SQL, Google Maps API  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="FASTpool App UI" width="320" style="border-radius:12px;"/>
-</p>
+### ⚙️ LLM Workflow Automation Engine  
+> AI-driven scheduling & automation engine for managing tasks and calendars  
+> 🧠 Uses LLMs + Zapier + FastAPI for real-time workflows and smart booking  
+> 🔗 Connects with external tools through scalable APIs & webhooks  
 
 ---
 
-### 🎤 Whisper STT GUI  
-> Speech-to-Text app powered by OpenAI Whisper  
-> 🐍 Python + Tkinter — built in under 2 hours, clean and efficient  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsl7spCAXoFGw8c/giphy.gif" alt="Whisper GUI" width="320" style="border-radius:12px;"/>
-</p>
+### 🔄 Redis Simulation Engine  
+> Real-time task pipeline simulator using Redis Pub/Sub and Queue structures  
+> ⚙️ Modeled backend systems with latency-sensitive architecture  
+> 🎯 Built for high-throughput backend simulations and learning  
 
 ---
 
-### 📊 Supportiyo Dashboard & Website  
-> AI-powered support platform with sleek UI/UX redesign  
-> 🤝 Collaborated with dev + automation teams to elevate user experience  
+### 🖥️ Supportiyo Dashboard Redesign  
+> Led UI/UX revamp for AI support platform  
+> 🎨 Built responsive, intuitive layouts with Figma  
+> 🚀 Improved engagement and user flow in automation-first product  
+
+---
+
+### 🎮 Game Design – M-Labs  
+> Created interactive game systems and visual assets at M-Labs  
+> 🕹️ Worked in Unity using C#, Illustrator, and Blender  
+> ⭐ Achieved 85% positive feedback on prototype release  
 
 ---
 
 ## 📬 Let's Connect!
 
-| 📧 Email | 🔗 LinkedIn | 🌐 Portfolio |
-|----------|------------|--------------|
-| [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com) | [linkedin.com/in/toobajatoi](https://linkedin.com/in/toobajatoi) | [toobajatoi.github.io/portfolio](https://toobajatoi.github.io/portfolio/) |
+| 📧 Email | 🔗 LinkedIn | 🎨 Behance | 🌐 Portfolio |
+|----------|------------|------------|--------------|
+| [toobajatoi.dev@gmail.com](mailto:toobajatoi.dev@gmail.com) | [linkedin.com/in/tooba-jatoi44](https://linkedin.com/in/tooba-jatoi44) | [behance.net/toobajatoi](https://behance.net/toobajatoi) | [folio.procreate.com/tmax_artistic](https://folio.procreate.com/tmax_artistic) |
 
 ---
 
 ## 🌱 Currently Powering Up
 
-- Advanced AI workflows & scalable backend systems  
-- Motion design for real-time dynamic interfaces  
+- Multilingual AI assistants and prompt-engineered workflows  
+- Real-time backend systems and pub/sub architectures  
+- Advanced UX animations and interactive dashboard designs  
 
 ---
 
 ## 💞️ Open to Collaborate on
 
-- Creative tech & interactive projects  
-- UI/UX redesigns & product prototyping  
-- AI-powered startups & student-led ventures 🚀  
+- Creative AI & real-time UX systems  
+- Games and simulations with narrative or educational value  
+- Startup products with impact and design-led innovation 🚀  
 
 ---
 
 ## ⚡ Fun Fact
 
-> I can design a UI in Figma, animate it in After Effects, **and bring it to life in code — all in one seamless flow!**
+> I can design an interface in Figma, animate it in After Effects or Blender, and **bring it to life through real-time code — seamlessly.**
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" style="border-radius:12px;"/>
+  <img src="https://media.giphy.com/media/3o6ZsTQe6pEJFeBXjw/giphy.gif" width="150" alt="Game Controller Animation" style="border-radius:12px;" />
 </p>
