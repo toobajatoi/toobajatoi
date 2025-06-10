@@ -111,9 +111,3 @@ Currently working as an **AI Research Architect & Creative Director** at Support
 - 🚀 Fast-paced MVPs, prototypes, and concept demos  
 
 ---
-
-<p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="200" />
-</p>
-
-> **"Design it, animate it, code it — I bring ideas to life end-to-end."**
