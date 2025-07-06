@@ -1,113 +1,14 @@
-<!-- GitHub README for @toobajatoi -->
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<h1 align="center">🚀 Tooba Jatoi — AI × Design × Code</h1>
+I'm [**Tooba**](https://toobajatoi.github.io/portfolio), an AI Research Architect & Creative Director based in Pakistan.
 
-<p align="center">
-  <img src="https://githubusercontent.com/akshitagupta15june/akshitagupta15june/main/banner.gif" width="100%" alt="Header Banner" />
-</p>
+I love building intelligent systems that bridge the gap between AI technology and human creativity. From real-time emotion detection to voice authentication, I turn complex AI concepts into practical, scalable solutions.
 
-<p align="center">
-  <b>AI Engineer · UI/UX Designer · Creative Technologist · Game Dev Enthusiast</b>  
-</p>
+Outside of coding and AI research, you'll find me taking pictures, drawing, or diving into video games. I'm also passionate about chess and solving Rubik's cubes when I need a mental challenge.
 
-<p align="center">
-  <a href="https://linkedin.com/in/tooba-jatoi44">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:toobajatoi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://behance.net/toobajatoi">
-    <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=behance&logoColor=white"/>
-  </a>
-  <a href="https://folio.procreate.com/tmax_artistic">
-    <img src="https://img.shields.io/badge/-Procreate%20Folio-black?style=flat&logo=procreate&logoColor=white"/>
-  </a>
-</p>
+#### Fun Facts:
 
----
-
-## 🌌 About Me
-
-I’m **Tooba Jatoi**, a Computer Science undergrad at FAST NUCES who merges creativity with cutting-edge tech.  
-Currently working as an **AI Research Architect & Creative Director** at Supportiyo.  
-
-🎯 My passion lies in designing intuitive UIs, building real-time AI tools, and crafting experiences that blend form and function.
-
----
-
-## 🚀 Highlight Projects
-
-### 🎭 BrainPan – Emotion & Tone Detector  
-🧠 Multilingual real-time emotion AI using BERT + FastAPI + Redis  
-→ Assistant-ready APIs | Urdu + English + Arabic (beta)  
-⭐️ 92% Accuracy | Low-latency Architecture  
-
----
-
-### 🤖 LLM Workflow Automation Engine  
-📅 LLM + Zapier + Redis + Webhooks to orchestrate calendars & workflows  
-→ AI assistant for smart bookings & modular scheduling  
-
----
-
-### 📊 Supportiyo Dashboard UI/UX  
-🎨 Led UI/UX redesign of Supportiyo's AI dashboard  
-→ Figma-based components | Clean UX | Increased engagement  
-
----
-
-### 🎮 Game Design @ M-Labs  
-🕹 Built a polished Unity game with mechanics, assets & UI  
-→ Designed in Figma + Blender | 85%+ user feedback  
-
----
-
-### 🔁 Redis-Based Simulation Engine  
-🔄 Real-time task simulator with Redis Pub/Sub & queues  
-→ Modeled backend architecture for async task handling  
-
----
-
-## 🧠 Tech Stack
-
-| 💼 Domain        | 🔧 Tools & Frameworks |
-|------------------|------------------------|
-| 🤖 AI/ML         | Python, BERT, LLMs, Prompt Engineering |
-| 🛠 Backend        | FastAPI, Redis, REST APIs, SQL, Zapier |
-| 🎨 Design         | Figma, Adobe Suite, Blender, Procreate |
-| 🌐 Frontend       | HTML, CSS, JavaScript, React |
-| 🕹 Game Dev       | Unity, C#, 2D/3D Art, Game UI |
-
----
-
-## 📈 GitHub Insights
-
-[![Tooba's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=toobajatoi&bg_color=0d1117&color=9e9eff&line=4c569e&point=c9d1d9&area=true&hide_border=true)](https://github.com/toobajatoi)
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=toobajatoi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobajatoi&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toobajatoi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔍 Currently Exploring
-
-- 🌐 Real-time AI assistants with frontend integration  
-- 🔁 Low-latency Redis systems for scalable tasks  
-- ✨ Animated dashboards with dynamic micro-interactions  
-
----
-
-## 🤝 Let’s Collaborate
-
-- 💡 Creative AI systems & intuitive UX  
-- 🎮 Interactive games or simulations  
-- 🚀 Fast-paced MVPs, prototypes, and concept demos  
-
----
+* I like taking pictures and drawing.
+* I'm a big fan of video games, chess and Rubik's cubes.
+* I've built 8+ AI projects from concept to production.
+* My emotion detection system achieves 92% accuracy across 3 languages.
