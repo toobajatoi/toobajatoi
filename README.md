@@ -9,4 +9,4 @@ Outside of coding and AI research, you'll find me taking pictures, drawing, or r
 #### Fun Facts:
 
 * I like taking pictures and drawing things that aren’t wireframes.
-* I’m a big fan of video games, chess, and Rubik’s cubes — basically anything that lets me feel smart without writing a single line of code.
+* I’m a big fan of video games, chess, and Rubik’s cubes basically anything that lets me feel smart without writing a single line of code.
